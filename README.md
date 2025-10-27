@@ -6,9 +6,9 @@ CS-360 Mobile Architect & Programming
 
 # Course Competencies
 This course covers the following competencies, which represent the knowledge and skills relevant to the field:
-<br/>Apply mobile application development principles and best practices in the development of a mobile application
-<br/>Apply user-centered design principles and industry standards in the development of a mobile application
-<br/>Develop and launch a fully functional mobile application
+<br/> CS-30421: Apply mobile application development principles and best practices in the development of a mobile application
+<br/> CS-30422: Apply user-centered design principles and industry standards in the development of a mobile application
+<br/> CS-30423: Develop and launch a fully functional mobile application
 
 
 # Software and Tools
